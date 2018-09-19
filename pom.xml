@@ -11,6 +11,7 @@
 
     <modules>
         <module>zlikun-jee-cache-guava</module>
+        <module>zlikun-jee-cache-caffeine</module>
     </modules>
 
     <properties>
